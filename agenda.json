@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T15:57:53-03:00",
+  "updated": "2026-11-21T14:53:09-03:00",
   "items": [
     {
       "id": "cinema-jogos-vorazes-amanhecer-na-colheita",
@@ -82,12 +82,44 @@
       "weight": 4
     },
     {
+      "id": "jk-iguatemi-bts-world-tour-arirang-in-kaohsiung-live",
+      "category": "cinema",
+      "venueId": "jk-iguatemi",
+      "venue": "Cinépolis JK Iguatemi",
+      "title": "BTS World Tour ARIRANG In Kaohsiung - Live",
+      "start": "2026-11-21",
+      "end": null,
+      "published": null,
+      "onSale": false,
+      "price": "",
+      "summary": "Show",
+      "image": "https://all.web.img.acsta.net/img/66/eb/66eb959e1bbbac41fc94053ea66ac5c1.jpg",
+      "url": "https://www.cinepolis.com.br/filmes/1000054150-bts-world-tour-arirang-in-kaohsiung-live",
+      "weight": 4
+    },
+    {
+      "id": "jk-iguatemi-bts-world-tour-arirang-in-kaohsiung-reexibicao",
+      "category": "cinema",
+      "venueId": "jk-iguatemi",
+      "venue": "Cinépolis JK Iguatemi",
+      "title": "BTS World Tour ARIRANG In Kaohsiung - Reexibição",
+      "start": "2026-11-21",
+      "end": null,
+      "published": null,
+      "onSale": false,
+      "price": "",
+      "summary": "Show",
+      "image": "https://cms-assets.webediamovies.pro/production/4306/a48ea02c7d04148dccd02a2f2580440f.jpg",
+      "url": "https://www.cinepolis.com.br/filmes/1000055500-bts-world-tour-arirang-in-kaohsiung-reexibicao",
+      "weight": 4
+    },
+    {
       "id": "jk-iguatemi-josephine-fragmentos-de-um-crime",
       "category": "cinema",
       "venueId": "jk-iguatemi",
       "venue": "Cinépolis JK Iguatemi",
       "title": "Josephine: Fragmentos de um Crime",
-      "start": "2026-11-20",
+      "start": "2026-11-21",
       "end": null,
       "published": null,
       "onSale": false,
@@ -95,38 +127,6 @@
       "summary": "Drama",
       "image": "https://all.web.img.acsta.net/img/24/6f/246fabd754edc88a79186e98eccb8dbf.webp",
       "url": "https://www.cinepolis.com.br/filmes/1000010349-josephine-fragmentos-de-um-crime",
-      "weight": 4
-    },
-    {
-      "id": "jk-iguatemi-verao-da-lata",
-      "category": "cinema",
-      "venueId": "jk-iguatemi",
-      "venue": "Cinépolis JK Iguatemi",
-      "title": "Verão da Lata",
-      "start": "2026-11-20",
-      "end": null,
-      "published": null,
-      "onSale": false,
-      "price": "",
-      "summary": "Cinépolis JK Iguatemi, 20/11",
-      "image": "https://cms-assets.webediamovies.pro/production/4306/fac701ad47881c72c9d0d622f3c871ea.jpg",
-      "url": "https://www.cinepolis.com.br/filmes/1000037207-verao-da-lata",
-      "weight": 4
-    },
-    {
-      "id": "jk-iguatemi-cara-de-barro",
-      "category": "cinema",
-      "venueId": "jk-iguatemi",
-      "venue": "Cinépolis JK Iguatemi",
-      "title": "Cara-De-Barro",
-      "start": "2026-11-12",
-      "end": null,
-      "published": null,
-      "onSale": false,
-      "price": "",
-      "summary": "Terror · Suspense · Drama",
-      "image": "https://all.web.img.acsta.net/img/5a/38/5a389aaa78fd7c0559cbe93b40a446c7.jpg",
-      "url": "https://www.cinepolis.com.br/filmes/1000016901-cara-de-barro",
       "weight": 4
     },
     {
@@ -290,6 +290,38 @@
       "weight": 4
     },
     {
+      "id": "japan-house-ciclo-de-manga-fenix-de-osamu-tezuka",
+      "category": "exhibition",
+      "venueId": "japan-house",
+      "venue": "Japan House",
+      "title": "Ciclo de Mangá // Fênix, de Osamu Tezuka",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "published": null,
+      "onSale": false,
+      "price": "",
+      "summary": "EVENTO EM CARTAZ",
+      "image": "https://japanhousesp.com.br/wp-content/uploads/scw_webpify/2026/11/JHSP-ARTE-CICLODEMANDA-NOV-Thumb-02.webp",
+      "url": "https://japanhousesp.com.br/evento/ciclo-de-manga-fenix-de-osamu-tezuka/",
+      "weight": 4
+    },
+    {
+      "id": "japan-house-cultural-training-na-jhsp",
+      "category": "exhibition",
+      "venueId": "japan-house",
+      "venue": "Japan House",
+      "title": "Cultural Training na JHSP",
+      "start": "2026-11-21",
+      "end": "2026-11-21",
+      "published": null,
+      "onSale": false,
+      "price": "",
+      "summary": "EVENTO EM CARTAZ",
+      "image": "https://japanhousesp.com.br/wp-content/uploads/scw_webpify/2026/11/JHSP-ARTE-CULTURALTRAINING-THUMB.webp",
+      "url": "https://japanhousesp.com.br/evento/cultural-training-na-jhsp/",
+      "weight": 4
+    },
+    {
       "id": "japan-house-pictogramas-japao-em-simbolos",
       "category": "exhibition",
       "venueId": "japan-house",
@@ -303,38 +335,6 @@
       "summary": "exposição em cartaz",
       "image": "https://japanhousesp.com.br/wp-content/uploads/scw_webpify/2026/11/JHSP-ARTE-CONVITE-PICTOGRAMAS-THUMBNAIL.webp",
       "url": "https://japanhousesp.com.br/exposicao/pictogramas-japao-em-simbolos/",
-      "weight": 4
-    },
-    {
-      "id": "japan-house-visitas-mediadas-de-novembro",
-      "category": "exhibition",
-      "venueId": "japan-house",
-      "venue": "Japan House",
-      "title": "Visitas mediadas de novembro",
-      "start": "2026-11-04",
-      "end": "2026-11-26",
-      "published": null,
-      "onSale": false,
-      "price": "",
-      "summary": "EVENTO EM CARTAZ",
-      "image": "https://japanhousesp.com.br/wp-content/uploads/scw_webpify/2026/10/Prancheta-1-copiar.webp",
-      "url": "https://japanhousesp.com.br/evento/visitas-mediadas-de-novembro-5/",
-      "weight": 4
-    },
-    {
-      "id": "japan-house-ceramica-em-curso",
-      "category": "exhibition",
-      "venueId": "japan-house",
-      "venue": "Japan House",
-      "title": "Cerâmica em curso",
-      "start": "2026-10-06",
-      "end": "2027-05-30",
-      "published": null,
-      "onSale": false,
-      "price": "",
-      "summary": "exposição em cartaz",
-      "image": "https://japanhousesp.com.br/wp-content/uploads/scw_webpify/2026/09/JHSP-ARTE-CERAMICA-ENGLISH-THUMB-800X550.webp",
-      "url": "https://japanhousesp.com.br/exposicao/ceramica-em-curso/",
       "weight": 4
     },
     {
@@ -538,7 +538,7 @@
       "start": "2026-11-21",
       "end": "2026-11-29",
       "published": null,
-      "onSale": true,
+      "onSale": false,
       "price": "",
       "summary": "Programação relacionada a Ocupação Hector Babenco apresenta 10 obras do diretor, roteirista e produtor argentino-brasileiro",
       "image": "https://s3.sa-east-1.amazonaws.com/prd.editor.fundacaoitau.org.br/public/image/20892/file/optimized-1b8a1d7e171b0b6389b70052a46ca2e3.jpeg",
@@ -576,6 +576,23 @@
       "image": "https://s3.sa-east-1.amazonaws.com/prd.editor.fundacaoitau.org.br/public/image/20505/file/optimized-203d7c070371214396055cb9bdba3cd6.jpeg",
       "url": "https://www.itaucultural.org.br/o-bocejo-da-serpente-aborda-a-poetica-e-o-ludico-na-busca-por-poesias-perdidas",
       "weight": 4
+    },
+    {
+      "id": "veja-cultura-horoscopo-de-hoje-21-11-ultimo-dia-do-sol-em-esc",
+      "category": "culture",
+      "venueId": "veja-cultura",
+      "venue": "Veja SP",
+      "title": "Horóscopo de hoje (21/11): último dia do Sol em Escorpião traz um sábado de iniciativa",
+      "start": "2026-11-21",
+      "end": null,
+      "published": "2026-11-21",
+      "onSale": false,
+      "price": "",
+      "summary": "Na véspera da entrada do Sol em Sagitário, o céu pede coragem para começar e calma para não exagerar",
+      "image": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-21-11-ultimo-dia-do-Sol-em-Escorpiao-traz-um-sabado-de-iniciativa.jpg?quality=70&w=1024",
+      "url": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-21-11-ultimo-dia-sol-escorpiao-sabado-iniciativa/",
+      "weight": 4,
+      "kind": "event"
     },
     {
       "id": "veja-cultura-show-do-deep-purple-e-adiado-para-2027-por-probl",
@@ -797,23 +814,6 @@
       "url": "https://vejasp.abril.com.br/cultura-lazer/prefeitura-define-data-para-megashow-internacional-na-avenida-paulista-em-2027/",
       "weight": 4,
       "kind": "story"
-    },
-    {
-      "id": "veja-cultura-horoscopo-de-hoje-19-11-lua-em-peixes-desacelera",
-      "category": "culture",
-      "venueId": "veja-cultura",
-      "venue": "Veja SP",
-      "title": "Horóscopo de hoje (19/11): Lua em Peixes desacelera a quinta e pede mais intuição",
-      "start": "2026-11-19",
-      "end": null,
-      "published": "2026-11-19",
-      "onSale": false,
-      "price": "",
-      "summary": "Quinta-feira pede ritmo mais lento, atenção às emoções e cuidado com o que você absorve dos outros",
-      "image": "https://vejasp.abril.com.br/wp-content/uploads/2026/11/Horoscopo-de-hoje-19-11-Lua-em-Peixes-desacelera-a-quinta-e-pede-mais-intuicao.png?quality=70&w=1024",
-      "url": "https://vejasp.abril.com.br/cultura-lazer/horoscopo-19-11-lua-peixes-desacelera-pede-intuicao/",
-      "weight": 4,
-      "kind": "event"
     }
   ]
 }
